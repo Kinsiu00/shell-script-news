@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+		xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Business &#124;  New York Post</title>
+	<atom:link href="https://nypost.com/business/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nypost.com</link>
+	<description>Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.</description>
+	<lastBuildDate>Sat, 27 Oct 2018 15:17:48 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='nypost.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>Business &#124;  New York Post</title>
+		<link>https://nypost.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://nypost.com/osd.xml" title="New York Post" />
+	<atom:link rel='hub' href='https://nypost.com/?pushpress=hub'/>
+			<item>
+			<title>Lingerie brand calls for boycott of Victoria&#8217;s Secret Fashion Show</title>
+			<comments>https://nypost.com/2018/10/26/lingerie-brand-calls-for-boycott-of-victorias-secret-fashion-show/#respond</comments>
+			<pubDate>Fri, 26 Oct 2018 22:51:15 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/26/lingerie-brand-calls-for-boycott-of-victorias-secret-fashion-show/</link>
+				<dc:creator>Lisa Fickenscher</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13116583</guid>
+
+											<description><![CDATA[Taking potshots at Victoria’s Secret has become a rite of passage for its upstart lingerie rivals. The latest salvo was fired by ThirdLove, a lingerie maker that counts former Victoria’s Secret Chief Executive Lori Greeley as a board member. Just weeks before the annual Victoria’s Secret fashion show takes place in the Big Apple, ThirdLove...]]></description>
+				<content:encoded><![CDATA[Taking potshots at Victoria’s Secret has become a rite of passage for its upstart lingerie rivals. The latest salvo was fired by ThirdLove, a lingerie maker that counts former Victoria’s Secret Chief Executive Lori Greeley as a board member. Just weeks before the annual Victoria’s Secret fashion show takes place in the Big Apple, ThirdLove...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/victoria-secret-rival-wants-fashion-show-boycott.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/victoria-secret-rival-wants-fashion-show-boycott.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/victoria-secret-rival-wants-fashion-show-boycott.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">2017 Victoria&#039;s Secret Fashion Show In Shanghai - Show</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Whirlpool doesn&#8217;t want Sears selling any of its appliances</title>
+			<comments>https://nypost.com/2018/10/26/whirlpool-doesnt-want-sears-selling-any-of-its-appliances/#respond</comments>
+			<pubDate>Fri, 26 Oct 2018 22:46:06 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/26/whirlpool-doesnt-want-sears-selling-any-of-its-appliances/</link>
+				<dc:creator>Lisa Fickenscher</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13116601</guid>
+
+											<description><![CDATA[Hey, Sears — Whirlpool wants its stuff back. All of it. On Thursday, the Michigan-based appliance giant fired off a letter to Sears, demanding that the retailer return all refrigerators, washing machines, dishwashers and other appliances that Whirlpool shipped to it in the 45 days leading up to Sears’s Oct. 15 bankruptcy filing. Whirlpool argued...]]></description>
+				<content:encoded><![CDATA[Hey, Sears — Whirlpool wants its stuff back. All of it. On Thursday, the Michigan-based appliance giant fired off a letter to Sears, demanding that the retailer return all refrigerators, washing machines, dishwashers and other appliances that Whirlpool shipped to it in the 45 days leading up to Sears’s Oct. 15 bankruptcy filing. Whirlpool argued...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/sears2.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/sears2.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/sears2.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">Sears Retail Mall Location. Sears is a Subsidiary of Sears Holdings V</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>McDonald&#8217;s brings back legendary menu item — for a limited time</title>
+			<comments>https://nypost.com/2018/10/26/mcdonalds-brings-back-legendary-menu-item-for-a-limited-time/#respond</comments>
+			<pubDate>Fri, 26 Oct 2018 21:01:06 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/26/mcdonalds-brings-back-legendary-menu-item-for-a-limited-time/</link>
+				<dc:creator>Fox News</dc:creator>
+			
+			<guid isPermaLink="false">http://thenypost.wordpress.com/?post_type=wpsf-item&#038;p=13114101</guid>
+
+											<description><![CDATA[Dust off your finest eatin’ pants, McDonald’s fans. The fast-food chain announced Thursday that its beloved McRib is back after nearly a year off the menu. “While McDonald’s has ushered in many new items this year – such as fresh beef in our quarter-pound burgers – we know our fans love this limited time classic,”...]]></description>
+				<content:encoded><![CDATA[Dust off your finest eatin’ pants, McDonald’s fans. The fast-food chain announced Thursday that its beloved McRib is back after nearly a year off the menu. “While McDonald’s has ushered in many new items this year – such as fresh beef in our quarter-pound burgers – we know our fans love this limited time classic,”...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/181026-mcrib-is-back.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/181026-mcrib-is-back.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/181026-mcrib-is-back.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">TO GO WITH AFP STORY US-FOOD-SOCIETY-MCD</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Pumpkin prices rise as East Coast harvest shrinks</title>
+			<comments>https://nypost.com/2018/10/26/pumpkin-prices-rise-as-east-coast-harvest-shrinks/#respond</comments>
+			<pubDate>Fri, 26 Oct 2018 20:02:14 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/26/pumpkin-prices-rise-as-east-coast-harvest-shrinks/</link>
+				<dc:creator>Hannah Frishberg</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13116243</guid>
+
+											<description><![CDATA[These prices are scary. After a long, wet summer drowned out many crops, the specter of inflation is haunting East Coast pumpkin patches this season, with some growers experiencing shortages so extreme, they’re importing gourds across state lines. “This is pretty pervasive on the whole eastern seaboard,” Steve Weber of Maryland’s Weber’s Cider Mill Farm...]]></description>
+				<content:encoded><![CDATA[These prices are scary. After a long, wet summer drowned out many crops, the specter of inflation is haunting East Coast pumpkin patches this season, with some growers experiencing shortages so extreme, they’re importing gourds across state lines. “This is pretty pervasive on the whole eastern seaboard,” Steve Weber of Maryland’s Weber’s Cider Mill Farm...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/pumpkin-patch.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/pumpkin-patch.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/pumpkin-patch.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">Fall</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Tesla faces FBI probe over Model 3 numbers</title>
+			<comments>https://nypost.com/2018/10/26/tesla-faces-fbi-probe-over-model-3-numbers/#respond</comments>
+			<pubDate>Fri, 26 Oct 2018 16:15:33 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/26/tesla-faces-fbi-probe-over-model-3-numbers/</link>
+				<dc:creator>Nicolas Vega</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13115514</guid>
+
+											<description><![CDATA[The FBI is reviewing Tesla’s Model 3 production numbers as a part of a deepening criminal probe into the company, according to a report. Agents are investigating whether Tesla misled investors by misstating or exaggerating its Model 3 production capabilities and is reviewing numbers dating back to early 2017, the Wall Street Journal reported Friday,...]]></description>
+				<content:encoded><![CDATA[The FBI is reviewing Tesla’s Model 3 production numbers as a part of a deepening criminal probe into the company, according to a report. Agents are investigating whether Tesla misled investors by misstating or exaggerating its Model 3 production capabilities and is reviewing numbers dating back to early 2017, the Wall Street Journal reported Friday,...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/181026-fbi-probe-tesla-model-3-feature.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/181026-fbi-probe-tesla-model-3-feature.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/181026-fbi-probe-tesla-model-3-feature.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">FRANCE-AUTOMOBILE-PARIS-MOTOR-SHOW-BMW</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>We ran out of words to describe how rich the richest are</title>
+			<comments>https://nypost.com/2018/10/26/we-ran-out-of-words-to-describe-how-rich-the-richest-are/#respond</comments>
+			<pubDate>Fri, 26 Oct 2018 15:55:53 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/26/we-ran-out-of-words-to-describe-how-rich-the-richest-are/</link>
+				<dc:creator>Christian Gollayan</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13115259</guid>
+
+											<description><![CDATA[The one percent. The ultra-rich. The obscenely wealthy. No matter how you describe them, the world&#8217;s richest people made more money in 2017 than any year in recorded history. A new report by Swiss bank UBS found that billionaires increased their wealth by 20 percent &#8212; to a combined total of $8.9 trillion. “The past...]]></description>
+				<content:encoded><![CDATA[The one percent. The ultra-rich. The obscenely wealthy. No matter how you describe them, the world&#8217;s richest people made more money in 2017 than any year in recorded history. A new report by Swiss bank UBS found that billionaires increased their wealth by 20 percent &#8212; to a combined total of $8.9 trillion. “The past...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/181026-world-billionaires-richer-feature.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/181026-world-billionaires-richer-feature.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/181026-world-billionaires-richer-feature.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">Corrupt official holding bundle of money, taking bribe for abuse of power</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Facebook scrubs Iran-linked accounts that had 1M followers</title>
+			<comments>https://nypost.com/2018/10/26/facebook-scrubs-iran-linked-accounts-that-had-1m-followers/#respond</comments>
+			<pubDate>Fri, 26 Oct 2018 13:31:02 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/26/facebook-scrubs-iran-linked-accounts-that-had-1m-followers/</link>
+				<dc:creator>Reuters</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13114837</guid>
+
+											<description><![CDATA[Facebook said on Friday it had deleted more accounts originating in Iran that attracted more than 1 million US and British followers its latest effort to combat disinformation activity on its platform. The social media company headed by Mark Zuckerberg removed 82 pages, groups and accounts on Facebook and Instagram that represented themselves as being...]]></description>
+				<content:encoded><![CDATA[Facebook said on Friday it had deleted more accounts originating in Iran that attracted more than 1 million US and British followers its latest effort to combat disinformation activity on its platform. The social media company headed by Mark Zuckerberg removed 82 pages, groups and accounts on Facebook and Instagram that represented themselves as being...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/facebook-iran-purge.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/facebook-iran-purge.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/facebook-iran-purge.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">FILES-US-INTERNET-FACEBOOK-PRIVACY-EU</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Trump complains Twitter purged his followers, cites &#8216;bias&#8217;</title>
+			<comments>https://nypost.com/2018/10/26/trump-complains-twitter-purged-his-followers-cites-bias/#respond</comments>
+			<pubDate>Fri, 26 Oct 2018 13:09:12 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/26/trump-complains-twitter-purged-his-followers-cites-bias/</link>
+				<dc:creator>Nicolas Vega</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13114714</guid>
+
+											<description><![CDATA[President Trump griped on Friday that Twitter has recently purged followers from his account, suggesting that it was because of “bias” at the Silicon Valley company. The complaint comes a day after Twitter revealed that it had lost 9 million monthly active users in the most recent quarter as it cracked down on suspicious accounts...]]></description>
+				<content:encoded><![CDATA[President Trump griped on Friday that Twitter has recently purged followers from his account, suggesting that it was because of “bias” at the Silicon Valley company. The complaint comes a day after Twitter revealed that it had lost 9 million monthly active users in the most recent quarter as it cracked down on suspicious accounts...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/trump-twitter-bias.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/trump-twitter-bias.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/trump-twitter-bias.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">U.S. President Trump departs for Wisconsin from the White House in Washington</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Sears directors hire bank to scrutinize Lampert deals</title>
+			<comments>https://nypost.com/2018/10/26/sears-directors-hire-bank-to-scrutinize-lampert-deals/#respond</comments>
+			<pubDate>Fri, 26 Oct 2018 12:55:09 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/26/sears-directors-hire-bank-to-scrutinize-lampert-deals/</link>
+				<dc:creator>Lisa Fickenscher</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13114557</guid>
+
+											<description><![CDATA[Billionaire Eddie Lampert’s many moves to siphon off Sears’ valuable assets are about to get some scrutiny. Two independent directors who joined Sears’ board this month have begun poring over deals that Lampert engineered before the 125-year-old retailer filed for bankruptcy protection on Oct. 15 — including sales of some of Sears’ most valuable brands...]]></description>
+				<content:encoded><![CDATA[Billionaire Eddie Lampert’s many moves to siphon off Sears’ valuable assets are about to get some scrutiny. Two independent directors who joined Sears’ board this month have begun poring over deals that Lampert engineered before the 125-year-old retailer filed for bankruptcy protection on Oct. 15 — including sales of some of Sears’ most valuable brands...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/sears-evercore-lampert.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/sears-evercore-lampert.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/sears-evercore-lampert.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">061017sears3CS</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Stocks tumble on weak results at Amazon, Alphabet</title>
+			<comments>https://nypost.com/2018/10/26/stocks-tumble-on-weak-results-at-amazon-alphabet/#respond</comments>
+			<pubDate>Fri, 26 Oct 2018 11:47:41 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/26/stocks-tumble-on-weak-results-at-amazon-alphabet/</link>
+				<dc:creator>Carleton English</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13114415</guid>
+
+											<description><![CDATA[Amazon shares just crashed and burned — and they took the stock market with them. The Seattle-based Web retailer on Friday saw its shares plunge 7.8 percent after the company warned its holiday sales could come up short. As analysts parsed whether it was growing competition or a weakening economy that spooked Amazon executives, investors...]]></description>
+				<content:encoded><![CDATA[Amazon shares just crashed and burned — and they took the stock market with them. The Seattle-based Web retailer on Friday saw its shares plunge 7.8 percent after the company warned its holiday sales could come up short. As analysts parsed whether it was growing competition or a weakening economy that spooked Amazon executives, investors...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/tech-stocks-fall.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/tech-stocks-fall.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/tech-stocks-fall.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">U.S. Markets Open One Day After Stocks Take Major Plunge</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>US economic growth slows less than expected in third quarter</title>
+			<comments>https://nypost.com/2018/10/26/us-economic-growth-slows-less-than-expected-in-third-quarter/#respond</comments>
+			<pubDate>Fri, 26 Oct 2018 08:46:33 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/26/us-economic-growth-slows-less-than-expected-in-third-quarter/</link>
+				<dc:creator>Reuters</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13113759</guid>
+
+											<description><![CDATA[WASHINGTON, &#8211; The U.S. economy slowed less than expected in the third quarter as a tariff-related drop in soybean exports was partially offset by the strongest consumer spending in nearly four years and a surge in inventory investment. Gross domestic product increased at a 3.5 percent annualized rate also supported by solid government spending, the...]]></description>
+				<content:encoded><![CDATA[WASHINGTON, &#8211; The U.S. economy slowed less than expected in the third quarter as a tariff-related drop in soybean exports was partially offset by the strongest consumer spending in nearly four years and a surge in inventory investment. Gross domestic product increased at a 3.5 percent annualized rate also supported by solid government spending, the...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/181026-soybeans-economy-growth.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/181026-soybeans-economy-growth.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/181026-soybeans-economy-growth.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">Trade China Tariffs</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Brothels owned by Dennis Hof continue operation</title>
+			<comments>https://nypost.com/2018/10/26/brothels-owned-by-dennis-hof-continue-operation/#respond</comments>
+			<pubDate>Fri, 26 Oct 2018 02:13:42 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/26/brothels-owned-by-dennis-hof-continue-operation/</link>
+				<dc:creator>Associated Press</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13113204</guid>
+
+											<description><![CDATA[LAS VEGAS — The brothels owned by Nevada&#8217;s most famous pimp are being operated by his longtime madam and company financial officer following his death last week. The Las Vegas Sun reports Dennis Hof who was found dead Oct. 16 after celebrating his 72nd birthday added Suzette Cole in 2012 to the business and liquor...]]></description>
+				<content:encoded><![CDATA[LAS VEGAS — The brothels owned by Nevada&#8217;s most famous pimp are being operated by his longtime madam and company financial officer following his death last week. The Las Vegas Sun reports Dennis Hof who was found dead Oct. 16 after celebrating his 72nd birthday added Suzette Cole in 2012 to the business and liquor...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/dennis-hof-getty.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/dennis-hof-getty.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/dennis-hof-getty.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">Dennis-Hof-Getty</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Mattel shares rise on heels of Barbie sales increase</title>
+			<comments>https://nypost.com/2018/10/25/mattel-shares-rise-on-heels-of-barbie-sales-increase/#respond</comments>
+			<pubDate>Thu, 25 Oct 2018 23:39:15 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/25/mattel-shares-rise-on-heels-of-barbie-sales-increase/</link>
+				<dc:creator>Lisa Fickenscher</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13112734</guid>
+
+											<description><![CDATA[Barbie carried the day for Mattel. Sales of the nearly 60-year-old doll soared 14 percent in North America in the third quarter — up from 12 percent in the previous quarter — while its other major brands, including American Girl, Fisher-Price and Hot Wheels flopped. Demand for Barbie, who now comes in different skin tones...]]></description>
+				<content:encoded><![CDATA[Barbie carried the day for Mattel. Sales of the nearly 60-year-old doll soared 14 percent in North America in the third quarter — up from 12 percent in the previous quarter — while its other major brands, including American Girl, Fisher-Price and Hot Wheels flopped. Demand for Barbie, who now comes in different skin tones...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/181025-barbie-sales.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/181025-barbie-sales.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/181025-barbie-sales.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">Barbie doll portrait</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Stocks surge as tech companies report strong earnings</title>
+			<comments>https://nypost.com/2018/10/25/stocks-surge-as-tech-companies-report-strong-earnings/#respond</comments>
+			<pubDate>Thu, 25 Oct 2018 23:28:29 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/25/stocks-surge-as-tech-companies-report-strong-earnings/</link>
+				<dc:creator>Kevin Dugan</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13112777</guid>
+
+											<description><![CDATA[Stocks boomeranged back up on Thursday after major tech companies reported better-than-expected earnings, breathing life back into Wall Street after a punishing start to the week. The Dow Jones industrial average rocketed 401.13 points, or 1.6 percent, to 24,984.55 after losing 600 points on Wednesday. The surge pushed the index back into positive territory for...]]></description>
+				<content:encoded><![CDATA[Stocks boomeranged back up on Thursday after major tech companies reported better-than-expected earnings, breathing life back into Wall Street after a punishing start to the week. The Dow Jones industrial average rocketed 401.13 points, or 1.6 percent, to 24,984.55 after losing 600 points on Wednesday. The surge pushed the index back into positive territory for...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/181025-tech-stocks.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/181025-tech-stocks.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/181025-tech-stocks.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">Gregory Rowe</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Firm lied to investors about shoe brand&#8217;s finances: suit</title>
+			<comments>https://nypost.com/2018/10/25/firm-lied-to-investors-about-shoe-brands-finances-suit/#respond</comments>
+			<pubDate>Thu, 25 Oct 2018 23:27:18 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/25/firm-lied-to-investors-about-shoe-brands-finances-suit/</link>
+				<dc:creator>Josh Kosman</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13112765</guid>
+
+											<description><![CDATA[A buyout firm got itself a sweet discount on Stuart Weitzman before flipping it at a fat profit — by lying to investors about the shoe brand’s financial outlook, according to an explosive lawsuit. New York-based Sycamore Partners handed creditors a low-ball earnings forecast for Stuart Weitzman in a $2.1 billion deal it orchestrated to...]]></description>
+				<content:encoded><![CDATA[A buyout firm got itself a sweet discount on Stuart Weitzman before flipping it at a fat profit — by lying to investors about the shoe brand’s financial outlook, according to an explosive lawsuit. New York-based Sycamore Partners handed creditors a low-ball earnings forecast for Stuart Weitzman in a $2.1 billion deal it orchestrated to...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/firm-lied-to-investors-about-shoe-brands-finances.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/firm-lied-to-investors-about-shoe-brands-finances.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/firm-lied-to-investors-about-shoe-brands-finances.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">firm-lied-to-investors-about-shoe-brands-finances</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Dan Loeb sues Campbell Soup in bid to delay annual meeting</title>
+			<comments>https://nypost.com/2018/10/25/dan-loeb-sues-campbell-soup-in-bid-to-delay-annual-meeting/#respond</comments>
+			<pubDate>Thu, 25 Oct 2018 23:00:30 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/25/dan-loeb-sues-campbell-soup-in-bid-to-delay-annual-meeting/</link>
+				<dc:creator>Carleton English, Josh Kosman</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13112574</guid>
+
+											<description><![CDATA[Dan Loeb is trying to delay Campbell Soup’s Nov. 29 annual meeting by suing it for running a “campaign of misinformation” to entice investors to reinstate the board. His Third Point hedge fund was recently hoping Campbell would offer it a few board seats as a compromise as Loeb pushed to replace the entire board,...]]></description>
+				<content:encoded><![CDATA[Dan Loeb is trying to delay Campbell Soup’s Nov. 29 annual meeting by suing it for running a “campaign of misinformation” to entice investors to reinstate the board. His Third Point hedge fund was recently hoping Campbell would offer it a few board seats as a compromise as Loeb pushed to replace the entire board,...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/campbell-soups-can.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/campbell-soups-can.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/campbell-soups-can.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">Campbell&#039;s Soup Can Isolated</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Caesars taps Goldman Sachs for defense from activist investors</title>
+			<comments>https://nypost.com/2018/10/25/caesars-taps-goldman-sachs-for-defense-from-activist-investors/#respond</comments>
+			<pubDate>Thu, 25 Oct 2018 22:53:56 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/25/caesars-taps-goldman-sachs-for-defense-from-activist-investors/</link>
+				<dc:creator>Josh Kosman</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13112668</guid>
+
+											<description><![CDATA[Caesars Entertainment, looking to fend off an attack from activist investors, has enlisted Goldman Sachs to give it advice, two sources close to the situation told The Post. Goldman has an activist defense practice, and its hire shows the Caesars board is at odds with the activists who are trying to force a sale, sources...]]></description>
+				<content:encoded><![CDATA[Caesars Entertainment, looking to fend off an attack from activist investors, has enlisted Goldman Sachs to give it advice, two sources close to the situation told The Post. Goldman has an activist defense practice, and its hire shows the Caesars board is at odds with the activists who are trying to force a sale, sources...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/102518-caesars-goldman-feature.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/102518-caesars-goldman-feature.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/102518-caesars-goldman-feature.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">102518-caesars-goldman-feature</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Amazon shares tank ahead of holiday sales</title>
+			<comments>https://nypost.com/2018/10/25/amazon-shares-tank-ahead-of-holiday-sales/#respond</comments>
+			<pubDate>Thu, 25 Oct 2018 22:35:50 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/25/amazon-shares-tank-ahead-of-holiday-sales/</link>
+				<dc:creator>Nicolas Vega</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13112684</guid>
+
+											<description><![CDATA[Amazon shares plunged in extended trading Thursday after coming up short on revenue, despite nearly doubling analysts’ profit expectations. Investors were also spooked by a weaker holiday season sales forecast, with Amazon projecting that revenue growth in its all-important fourth quarter would be the slowest in years. The Seattle-based company’s shares dropped 9.1 percent to...]]></description>
+				<content:encoded><![CDATA[Amazon shares plunged in extended trading Thursday after coming up short on revenue, despite nearly doubling analysts’ profit expectations. Investors were also spooked by a weaker holiday season sales forecast, with Amazon projecting that revenue growth in its all-important fourth quarter would be the slowest in years. The Seattle-based company’s shares dropped 9.1 percent to...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/amazon-shares-plunge-in-extended-trading.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/amazon-shares-plunge-in-extended-trading.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/amazon-shares-plunge-in-extended-trading.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">amazon-shares-plunge-in-extended-trading</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Google fired 48 people for sex harassment in last two years</title>
+			<comments>https://nypost.com/2018/10/25/google-fired-48-people-for-sex-harassment-in-last-two-years/#respond</comments>
+			<pubDate>Thu, 25 Oct 2018 21:41:52 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/25/google-fired-48-people-for-sex-harassment-in-last-two-years/</link>
+				<dc:creator>Joe Tacopino</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13112621</guid>
+
+											<description><![CDATA[Google revealed on Thursday that the tech giant has fired 48 employees for sexual harassment over the past two years. Google CEO Sundar Pichai disclosed the information in response to a New York Times report that claimed the company had &#8220;protected&#8221; a former Android executive accused of sexual misconduct. Pichai said in an email to...]]></description>
+				<content:encoded><![CDATA[Google revealed on Thursday that the tech giant has fired 48 employees for sexual harassment over the past two years. Google CEO Sundar Pichai disclosed the information in response to a New York Times report that claimed the company had &#8220;protected&#8221; a former Android executive accused of sexual misconduct. Pichai said in an email to...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/google-fired-48-people-for-sexual-harassment.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/google-fired-48-people-for-sexual-harassment.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/google-fired-48-people-for-sexual-harassment.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">Google search page in the internet</media:title>
+		</media:content>
+		</item>
+				<item>
+			<title>Google reportedly paid Android creator millions after sex misconduct claim</title>
+			<comments>https://nypost.com/2018/10/25/google-reportedly-paid-android-creator-millions-after-sex-misconduct-claim/#respond</comments>
+			<pubDate>Thu, 25 Oct 2018 14:10:12 -0400</pubDate>
+
+							<link>https://nypost.com/2018/10/25/google-reportedly-paid-android-creator-millions-after-sex-misconduct-claim/</link>
+				<dc:creator>Laura Italiano</dc:creator>
+			
+			<guid isPermaLink="false">http://nypost.com/?post_type=article&#038;p=13110466</guid>
+
+											<description><![CDATA[Google is about to pay Andy Rubin, the creator of Android, the last installment of his ­­$90 million exit package — a golden parachute he received despite his being credibly accused of coercing a female employee into performing oral sex, it was revealed on Thursday. In addition to claims the legendary software developer coerced a...]]></description>
+				<content:encoded><![CDATA[Google is about to pay Andy Rubin, the creator of Android, the last installment of his ­­$90 million exit package — a golden parachute he received despite his being credibly accused of coercing a female employee into performing oral sex, it was revealed on Thursday. In addition to claims the legendary software developer coerced a...]]></content:encoded>
+									<enclosure url="https://thenypost.files.wordpress.com/2018/10/181025-andy-rubin-feature-image.jpg?quality=90&#038;strip=all" type="image/jpeg" />
+									<slash:comments>0</slash:comments>
+			
+		<media:thumbnail url="https://thenypost.files.wordpress.com/2018/10/181025-andy-rubin-feature-image.jpg?quality=90&#038;strip=all" />
+		<media:content url="https://thenypost.files.wordpress.com/2018/10/181025-andy-rubin-feature-image.jpg?quality=90&#38;strip=all" medium="image">
+			<media:title type="html">WIRED Business Conference Presented By Visa At Spring Studios In New York City</media:title>
+		</media:content>
+		</item>
+		</channel>
+</rss>
