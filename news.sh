@@ -1,4 +1,4 @@
-echo "I bring you news! ( •̀ᄇ• ́)ﻭ✧"
+echo -e "I bring you news! ( •̀ᄇ• ́)ﻭ✧"
 menu="[U]K - BBC news | [N]ew York Post | [O]nion | [T]ech - BBC | [B]usiness - New York Post | [Q]uit"
 ask="// END //"
 echo $menu
@@ -11,12 +11,14 @@ do
         grep "<title><!" bbc.txt | cut -c 29- | rev | cut -c 12- | rev | sed -n 2,6p
         echo $ask
         echo $menu
+        rm bbc.txt
 		;;
 	n | N)
 		w3m "https://nypost.com/news/feed/" -dump > nyp.txt
         sed 1,24d nyp.txt | grep "<title>" | cut -c 11- | rev | cut -c 9- | rev | sed -n 1,5p
         echo $ask
         echo $menu
+        rm nyp.txt
 		;;
     o | O)
         w3m "https://www.theonion.com/c/news-in-brief" -dump > onion.txt
@@ -36,12 +38,14 @@ do
         grep "<title><!" bbc.txt | cut -c 29- | rev | cut -c 12- | rev | sed -n 2,6p
         echo $ask
         echo $menu
+                rm bbc.txt
         ;;
     b | B)
         w3m "https://nypost.com/business/feed/" -dump > nyp.txt
         sed 1,24d nyp.txt | grep "<title>" | cut -c 11- | rev | cut -c 9- | rev | sed -n 1,5p
         echo $ask
         echo $menu
+        rm nyp.txt
         ;;
     q | Q)
         break
