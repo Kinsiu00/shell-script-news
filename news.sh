@@ -38,7 +38,7 @@ do
         grep "<title><!" bbc.txt | cut -c 29- | rev | cut -c 12- | rev | sed -n 2,6p
         echo $ask
         echo $menu
-                rm bbc.txt
+        rm bbc.txt
         ;;
     b | B)
         w3m "https://nypost.com/business/feed/" -dump > nyp.txt
