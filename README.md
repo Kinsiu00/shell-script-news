@@ -1,16 +1,16 @@
 # Script-News
 A simple Linux shell script to pull headlines from news sources.
 
-## Getting Started
+### Getting Started
 To use, simply run the command "bash news.sh" from the same directory.
 
 ### Prerequisites
 A linux system, internet connection, ability to access The Onion, BBC, and New York Post websites.
-## Built With
+### Built With
 [W3M](http://w3m.sourceforge.net/)
-## Author
+### Author
 Kin Siu, find me at: https://github.com/Kinsiu00/
-## License
+### License
 This project is licensed under the MIT License.
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
 associated documentation files (the "Software"), to deal in the Software without restriction, 
