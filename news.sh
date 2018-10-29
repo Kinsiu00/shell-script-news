@@ -51,8 +51,8 @@ do
         break
         ;;
 	*)
-		echo "[B]BC news | [N]ew York Post | [O]nion | [T]ech - BBC | [E]ntertainment - New York Post | [S]ports - New York Post"
+		echo "[U]K - BBC news | [N]ew York Post | [O]nion | [T]ech - BBC | [B]usiness - New York Post | [Q]uit"
 		;;
   esac
 done
-    echo "Goodbye! |。･ω･|ﾉ"
+    echo "Goodbye! (。･∀･)ﾉ゛"
