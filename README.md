@@ -1,4 +1,4 @@
-# TITLE
+# Script-News
 A simple Linux shell script to pull headlines from news sources.
 
 ## Getting Started
