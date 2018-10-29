@@ -1,31 +1,54 @@
-echo "Welcome! What kind of news are you looking for? |。･ω･|ﾉ"
-menu="[B]BC news | [N]ew York Post | [O]nion | [T]ech - BBC | [E]ntertainment - New York Post | [S]ports - New York Post"
+echo "I bring you news! ( •̀ᄇ• ́)ﻭ✧"
+menu="[U]K - BBC news | [N]ew York Post | [O]nion | [T]ech - BBC | [B]usiness - New York Post | [Q]uit"
 ask="// END //"
 echo $menu
 while :
 do
   read INPUT_STRING
   case $INPUT_STRING in
-	b | B)
+	u | U)
 		w3m "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml?edition=int" -dump > bbc.txt
         grep "<title><!" bbc.txt | cut -c 29- | rev | cut -c 12- | rev | sed -n 2,6p
         echo $ask
         echo $menu
 		;;
-	n)
-		echo "n selected!"
+	n | N)
+		w3m "https://nypost.com/news/feed/" -dump > nyp.txt
+        sed 1,24d nyp.txt | grep "<title>" | cut -c 11- | rev | cut -c 9- | rev | sed -n 1,5p
+        echo $ask
+        echo $menu
 		;;
-    o)
-        echo "o selected!"
+    o | O)
+        w3m "https://www.theonion.com/c/news-in-brief" -dump > onion.txt
+        sed 1,24d onion.txt > onion2.txt
+        lineNum=`grep -n "News in Brief" onion2.txt |cut -f1 -d:`
+        lineArr=($(echo "$lineNum" | tr ' ' '\n'))
+        for i in ${lineArr[@]:0:5}
+        do
+            sed -n $(($i+2)),$(($i+4))p onion2.txt
+        done
+        rm onion.txt onion2.txt
+        echo $ask
+        echo $menu
         ;;
-    q)
-        echo "goodbye"
+    t | T)
+        w3m "http://feeds.bbci.co.uk/news/technology/rss.xml" -dump > bbc.txt
+        grep "<title><!" bbc.txt | cut -c 29- | rev | cut -c 12- | rev | sed -n 2,6p
+        echo $ask
+        echo $menu
+        ;;
+    b | B)
+        w3m "https://nypost.com/business/feed/" -dump > nyp.txt
+        sed 1,24d nyp.txt | grep "<title>" | cut -c 11- | rev | cut -c 9- | rev | sed -n 1,5p
+        echo $ask
+        echo $menu
+        ;;
+    q | Q)
         break
         ;;
 	*)
 		echo "[B]BC news | [N]ew York Post | [O]nion | [T]ech - BBC | [E]ntertainment - New York Post | [S]ports - New York Post"
 		;;
-
   esac
 done
-    echo "that's it."
+    echo "Goodbye! |。･ω･|ﾉ"
